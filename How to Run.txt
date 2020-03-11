@@ -1,0 +1,8 @@
+Hi,
+In order to run these files first compile them
+using this command
+javac *.java
+now for Cellular.java
+write java Cellular your_itertion input your_rule input
+for Life.Java
+write java Life your_grid_size input your_iteration_input your_random_or_Gosperinput(it's either has to be "G" or "R")
